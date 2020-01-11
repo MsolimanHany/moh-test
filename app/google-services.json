@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "410061373993",
+    "firebase_url": "https://zahramoha-9e1fd.firebaseio.com",
+    "project_id": "zahramoha-9e1fd",
+    "storage_bucket": "zahramoha-9e1fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410061373993:android:d29fa23f37ee0ca0785238",
+        "android_client_info": {
+          "package_name": "fatma.mode.randomquestion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410061373993-8s1okds7hd6nejcem35f2hkutej8ka9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUIk3EWZz914uwVGZ17EoXIz0kYmvJ3EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410061373993-8s1okds7hd6nejcem35f2hkutej8ka9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
